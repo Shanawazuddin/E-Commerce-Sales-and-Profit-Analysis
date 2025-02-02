@@ -1,6 +1,6 @@
 # E-Commerce Sales and Profit Analysis Dashboard
 
-![Dashboard Image]([https://github.com/user-attachments/assets/3bd08dfe-5b7e-4874-991a-782604805661)
+[Dashboard Image]([https://github.com/user-attachments/assets/3bd08dfe-5b7e-4874-991a-782604805661)
 
 ## Overview
 This project showcases a **comprehensive E-Commerce Sales and Profit Analysis Dashboard** built using **Microsoft Excel**. The dashboard provides key insights into sales, profit, category-wise performance, and year-over-year growth. Interactive visuals like combo charts, line charts, bar charts, maps, donut charts, and more help stakeholders make data-driven decisions.
